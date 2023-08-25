@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-24T22:11:08 EEST" name="Suite" finished-at="2023-08-24T22:11:21 EEST" duration-ms="12249">
+    <groups>
+      <group name="Smoke">
+        <method signature="PurchaseHostingPlan.PurchasePremiumWebHostingPlan()[pri:1, instance:testCases.PurchaseHostingPlan@71a8adcf]" name="PurchasePremiumWebHostingPlan" class="testCases.PurchaseHostingPlan"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2023-08-24T22:11:08 EEST" name="Test" finished-at="2023-08-24T22:11:21 EEST" duration-ms="12249">
+      <class name="testCases.PurchaseHostingPlan">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.PurchaseHostingPlan@71a8adcf]" started-at="2023-08-24T22:11:08 EEST" name="setUp" finished-at="2023-08-24T22:11:14 EEST" duration-ms="5561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PurchasePremiumWebHostingPlan()[pri:1, instance:testCases.PurchaseHostingPlan@71a8adcf]" started-at="2023-08-24T22:11:14 EEST" name="PurchasePremiumWebHostingPlan" description="Test Nr.1 Purchase Premium Web Hosting Plan" finished-at="2023-08-24T22:11:19 EEST" duration-ms="5553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PurchasePremiumWebHostingPlan -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testCases.PurchaseHostingPlan@71a8adcf]" started-at="2023-08-24T22:11:19 EEST" name="cleanUp" finished-at="2023-08-24T22:11:19 EEST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.PurchaseHostingPlan@71a8adcf]" started-at="2023-08-24T22:11:19 EEST" name="tearDown" finished-at="2023-08-24T22:11:21 EEST" duration-ms="1088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.PurchaseHostingPlan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

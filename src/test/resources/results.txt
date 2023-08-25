@@ -1,0 +1,15 @@
+
+*************Testing started: Test
+*************Testcase started:Test Nr.1 Purchase Premium Web Hosting Plan
+*************Testcase success:Test Nr.1 Purchase Premium Web Hosting Plan
+*************Testing completed: Test
+=========================================================================================================================
+Test tag Name: Test  Test start time: Thu Aug 24 22:11:08 EEST 2023  Test end time: Thu Aug 24 22:11:21 EEST 2023
+Test report output dir:  C:\Users\jbu\OneDrive - NRD Companies\Desktop\Test_Automation_Hostinger\TestAutomationHostinger\test-output\Suite
+Suite name: Suite
+Total tests run:1.0  Pass percentage: 100.0%
+====================================================
+Total failed methods count: 0
+Test methods are:  
+Total passed methods count: 1
+Total skipped methods count: 0
